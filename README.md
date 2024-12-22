@@ -6,4 +6,4 @@
 
 ## Editör: Assoc. Prof. Alper BIDECI, Ph.D.
 
-![AlternatifMetin](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png)
+![AlternatifMetin](https://github.com/acetinkaya/Approaches-With-Artificial-Intelligence-Ai-Algorithms-to-Smart-System-Works/blob/main/Platanus_yay%C4%B1n.png)

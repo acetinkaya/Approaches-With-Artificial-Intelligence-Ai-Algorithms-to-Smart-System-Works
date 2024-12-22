@@ -18,3 +18,4 @@
 
 ![AlternatifMetin](https://github.com/acetinkaya/Approaches-With-Artificial-Intelligence-Ai-Algorithms-to-Smart-System-Works/blob/main/Platanus_bolum5.png)
 
+*For Correspondence: alcetinkaya@gelisim.edu.tr*

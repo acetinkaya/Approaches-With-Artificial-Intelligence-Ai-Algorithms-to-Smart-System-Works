@@ -2,5 +2,5 @@
 
 ## Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works
 
-## Yayın Evi: Nobel Akademik Yayıncılık, 2024
+## Yayın Evi: Platanus Publishing, 2024
 

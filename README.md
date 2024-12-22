@@ -34,6 +34,7 @@ DOI no: 10.5281/zenodo.7744436
 
 * Bölüm 5. / Chapter 5. : Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works, International Research in Engineering Sciences, Platanus Publishing
 
+* Çetinkaya, A. (2023). Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works. In: Bideci, A. (ed.), International Research in Engineering Sciences. Platanus Publishing. ISBN no: 978-625-6971-50-9
 
 
 

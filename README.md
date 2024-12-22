@@ -12,4 +12,4 @@
 
 ## Bölüm 5. Yazarı / Chapter 5. Author
 
-asd
+![AlternatifMetin](https://github.com/acetinkaya/Approaches-With-Artificial-Intelligence-Ai-Algorithms-to-Smart-System-Works/blob/main/Platanus_bolum5.png)

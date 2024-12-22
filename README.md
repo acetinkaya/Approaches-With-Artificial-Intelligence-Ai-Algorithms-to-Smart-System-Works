@@ -38,7 +38,7 @@ DOI no: 10.5281/zenodo.7744436
 
 Yayın Tarihi / Published: Aralık / December, Ankara, 2023
 
-[Kitap Yayıncı Sayfası - Platanus Publishing](https://www.nobelyayin.com/makine-ogrenmesi-algoritmalari-21633.html)
+[Kitap Yayıncı Sayfası - Platanus Publishing](https://www.platanuskitap.com/)
 
 
 

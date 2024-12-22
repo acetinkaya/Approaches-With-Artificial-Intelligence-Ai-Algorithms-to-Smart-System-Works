@@ -48,7 +48,7 @@ IEEE: A. Çetinkaya, "APPROACHES WITH ARTIFICIAL INTELLIGENCE (AI) ALGORITHMS TO
 
 APA: Çetinkaya, A., (2023). APPROACHES WITH ARTIFICIAL INTELLIGENCE (AI) ALGORITHMS TO SMART SYSTEM WORKS. International Research in Engineering Sciences (pp.85-101), Ankara: Platanus Publishing.
 
-MLA: Çetinkaya, ALİ. "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar." Mühendislik Alanında Uluslararası Araştırmalar - I , Serüven Yayınevi, 2022, pp.157-171.
+MLA: Çetinkaya, ALİ. "APPROACHES WITH ARTIFICIAL INTELLIGENCE (AI) ALGORITHMS TO SMART SYSTEM WORKS." International Research in Engineering Sciences , Platanus Publishing, 2023, pp.85-101.
 
 ---
 

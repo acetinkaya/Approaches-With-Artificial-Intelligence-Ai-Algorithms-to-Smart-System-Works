@@ -52,6 +52,10 @@ MLA: Çetinkaya, Ali. "Approaches With Artificial Intelligence (Ai) Algorithms t
 
 ---
 
+![AlternatifMetin](https://github.com/acetinkaya/Approaches-With-Artificial-Intelligence-Ai-Algorithms-to-Smart-System-Works/blob/main/Platanus_bolum.png)
+
+---
+
 License:
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.

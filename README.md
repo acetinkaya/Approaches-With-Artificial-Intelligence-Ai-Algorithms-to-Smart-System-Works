@@ -28,4 +28,4 @@ Kitap Bilgileri / Book Information: INTERNATIONAL RESEARCH INENGINEERING SCIENCE
 
 ISBN no: 978-625-371-882-4  
 
-DOI no: 
+DOI no: 10.5281/zenodo.7744436

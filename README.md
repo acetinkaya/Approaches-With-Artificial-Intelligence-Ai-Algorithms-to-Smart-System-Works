@@ -4,3 +4,5 @@
 
 ## Yayın Evi: Platanus Publishing, 2023
 
+## Editör: Assoc.Prof.AlperBIDECI,Ph.D.
+

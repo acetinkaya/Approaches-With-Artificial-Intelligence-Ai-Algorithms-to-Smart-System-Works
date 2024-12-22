@@ -44,7 +44,7 @@ Yayın Tarihi / Published: Aralık / December, Ankara, 2023
 
 ## How to Cite / Nasıl Alıntı Yapılır
 
-IEEE: A. Çetinkaya, "Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar," In Mühendislik Alanında Uluslararası Araştırmalar - I , İzmir: Serüven Yayınevi, 2022, pp.157-171.
+IEEE: A. Çetinkaya, "APPROACHES WITH ARTIFICIAL INTELLIGENCE (AI) ALGORITHMS TO SMART SYSTEM WORKS," In International Research in Engineering Sciences , Ankara: Platanus Publishing, 2023, pp.85-101.
 
 APA: Çetinkaya, A., (2022). Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar. Mühendislik Alanında Uluslararası Araştırmalar - I (pp.157-171), İzmir: Serüven Yayınevi.
 

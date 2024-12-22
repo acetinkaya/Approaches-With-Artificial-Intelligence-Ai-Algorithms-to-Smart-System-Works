@@ -26,3 +26,6 @@
 
 Kitap Bilgileri / Book Information: INTERNATIONAL RESEARCH INENGINEERING SCIENCES, A. Bideci (ed.) 2023.,  Platanus Publishing
 
+ISBN no: 978-625-371-882-4  
+
+DOI no: 

@@ -4,5 +4,6 @@
 
 ## Yayın Evi: Platanus Publishing, 2023
 
-## Editör: Assoc.Prof.AlperBIDECI,Ph.D.
+## Editör: Assoc. Prof. Alper BIDECI, Ph.D.
 
+![AlternatifMetin](https://github.com/acetinkaya/k-NN-Siniflandirma-Yontemi/blob/main/Knn-Bolum.png)

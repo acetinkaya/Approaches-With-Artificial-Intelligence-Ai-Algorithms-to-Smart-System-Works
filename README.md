@@ -32,6 +32,7 @@ DOI no: 10.5281/zenodo.7744436
 
 ## Kitap Bölümü Bilgileri / Book Chapter Information:  
 
+* Bölüm 5. / Chapter 5. : Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works, Makine Öğrenmesi Algoritmaları, Nobel Akademik Yayıncılık.  
 
 
 

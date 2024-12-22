@@ -44,15 +44,14 @@ Yayın Tarihi / Published: Aralık / December, Ankara, 2023
 
 ## How to Cite / Nasıl Alıntı Yapılır
 
-IEEE: A. Çetinkaya, "APPROACHES WITH ARTIFICIAL INTELLIGENCE (AI) ALGORITHMS TO SMART SYSTEM WORKS," In International Research in Engineering Sciences , Ankara: Platanus Publishing, 2023, pp.85-101.
+IEEE: A. Çetinkaya, "Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works," In International Research in Engineering Sciences , Ankara: Platanus Publishing, 2023, pp.85-101.
 
-APA: Çetinkaya, A., (2023). APPROACHES WITH ARTIFICIAL INTELLIGENCE (AI) ALGORITHMS TO SMART SYSTEM WORKS. International Research in Engineering Sciences (pp.85-101), Ankara: Platanus Publishing.
+APA: Çetinkaya, A., (2023). Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works. International Research in Engineering Sciences (pp.85-101), Ankara: Platanus Publishing.
 
-MLA: Çetinkaya, ALİ. "APPROACHES WITH ARTIFICIAL INTELLIGENCE (AI) ALGORITHMS TO SMART SYSTEM WORKS." International Research in Engineering Sciences , Platanus Publishing, 2023, pp.85-101.
+MLA: Çetinkaya, Ali. "Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works." International Research in Engineering Sciences , Platanus Publishing, 2023, pp.85-101.
 
 ---
 
 License:
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
-

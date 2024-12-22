@@ -24,3 +24,5 @@
 
 ** Kitap İsmi / Book Title : International Research in Engineering Sciences
 
+Kitap Bilgileri / Book Information: INTERNATIONAL RESEARCH INENGINEERING SCIENCES, A. Bideci (ed.) 2023.,  Platanus Publishing
+

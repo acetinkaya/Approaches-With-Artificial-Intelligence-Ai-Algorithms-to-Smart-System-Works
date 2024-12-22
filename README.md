@@ -29,3 +29,12 @@ Kitap Bilgileri / Book Information: INTERNATIONAL RESEARCH INENGINEERING SCIENCE
 ISBN no: 978-625-6971-50-9
 
 DOI no: 10.5281/zenodo.7744436
+
+## Kitap Bölümü Bilgileri / Book Chapter Information:  
+
+
+
+
+
+
+

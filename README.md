@@ -22,4 +22,5 @@
 
 ---
 
-** Kitap İsmi / Book Title : Makine Öğrenmesi Algoritmaları
+** Kitap İsmi / Book Title : International Research in Engineering Sciences
+

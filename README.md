@@ -24,7 +24,7 @@
 
 ** Kitap İsmi / Book Title : International Research in Engineering Sciences
 
-Kitap Bilgileri / Book Information: INTERNATIONAL RESEARCH INENGINEERING SCIENCES, A. Bideci (ed.) 2023.,  Platanus Publishing
+Kitap Bilgileri / Book Information: International Research in Engineering Sciences, A. Bideci (ed.) 2023., Platanus Publishing
 
 ISBN no: 978-625-6971-50-9
 
@@ -32,7 +32,7 @@ DOI no: 10.5281/zenodo.7744436
 
 ## Kitap Bölümü Bilgileri / Book Chapter Information:  
 
-* Bölüm 5. / Chapter 5. : Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works, Makine Öğrenmesi Algoritmaları, Nobel Akademik Yayıncılık.  
+* Bölüm 5. / Chapter 5. : Approaches With Artificial Intelligence (Ai) Algorithms to Smart System Works, International Research in Engineering Sciences, Platanus Publishing
 
 
 
